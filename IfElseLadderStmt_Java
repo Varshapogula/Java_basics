@@ -1,0 +1,20 @@
+public class IfElseLadder {  
+public static void main(String[] args) {  
+String Name = "Varsha";  
+if(Name == "Greeshu")
+{  
+System.out.println("My Name Is Greeshu");  
+}
+else if (Name == "Anu") {  
+System.out.println("My Name Is Anu");  
+}
+else if(Name == "Vasanth") 
+{  
+System.out.println("My Name Is Vasanth");  
+}
+else 
+{  
+System.out.println( Name );  
+}  
+}  
+}  
